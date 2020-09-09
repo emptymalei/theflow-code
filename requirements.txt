@@ -5,3 +5,4 @@ plotly-express>=0.4.1
 sympy>=1.6.2
 nxviz>=0.6.2
 networkx>=2.3
+pydeck>=0.4.1
